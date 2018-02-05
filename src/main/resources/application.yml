@@ -1,0 +1,7 @@
+spring:
+  cache:
+    cache-names: files
+pingwins:
+  fileUploadPrefix: prefix
+  fileUploadSuffix: suffix
+  fileUploadBaseDir: /tmp
